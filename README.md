@@ -1,6 +1,12 @@
-Header
 
-## Приветствую на моем GitHub, Меня зовут Халид
+## Приветствую на моем GitHub
+## Меня зовут Халид
+мои проекты
+
+ <a href="https://github.com/alievhalid/chat-two">десткопный чат</a>
+
+ <a href="https://github.com/alievhalid/google-books">Google books</a>
+
 
 ## Освоеные навыки
 ![HTML 5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=HTML5&logoColor=ffffff)
@@ -22,4 +28,9 @@ Header
 ![FIGMA](https://img.shields.io/badge/-FIGMA-430098?style=for-the-badge&logo=FIGMA&logoColor=ffffff)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-325da8?style=for-the-badge&logo=POSTMAN&logoColor=ffffff)
 
-Follow me
+## Follow Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=cb3aa3)](https://www.instagram.com/therealhalidaliev/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/halidaliev2)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=cb3aa3)](https://t.me/therealhalidaliev)
+[![Github](https://img.shields.io/badge/-Github-f05032?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alievhalid)
