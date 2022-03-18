@@ -8,7 +8,7 @@
  <a href="https://github.com/alievhalid/google-books">Google books</a>
 
 
-## Освоеные навыки
+## Освоенные навыки
 ![HTML 5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ec6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-SASS-007ec6?style=for-the-badge&logo=SASS&logoColor=ffffff)
