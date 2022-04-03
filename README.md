@@ -3,7 +3,7 @@
 ## Меня зовут Халид
 мои проекты
 
- <a href="https://github.com/alievhalid/chat-two">десткопный чат</a>
+ <a href="https://github.com/alievhalid/chat-two">десктопный чат</a>
 
  <a href="https://github.com/alievhalid/google-books">Google books</a>
 
